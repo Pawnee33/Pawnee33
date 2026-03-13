@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Bonjour, je m'appelle Pawnee DEFIZE<br><br>👨‍💻 Développeur Full Stack en reconversion<br>🎓 Étudiant à **Holberton School Bordeaux**<br>💡 Passionné par le développement logiciel, les systèmes et l'open source.<br><br> 
+## 👋 Bonjour, je m'appelle Pawnee DEFIZE<br><br>👨‍💻 Développeur Full Stack en reconversion<br>🎓 Étudiant à **Holberton School Bordeaux**<br>💡 Passionné par le développement web, les systèmes et l'open source.<br><br> 
 
 
 ## 🌐 Socials:
