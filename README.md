@@ -18,7 +18,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Featured Projects
+## 🏅 Certifications
+### IBM SkillsBuild
+https://github.com/Pawnee33/Pawnee33/blob/main/images/agile-explorer.png
+https://github.com/Pawnee33/Pawnee33/blob/main/images/open-source-foundations.png
+Certifications obtenues via IBM SkillsBuild :
+
+## 🚀 Projets principaux
 
 🔹 **Airbnb Clone (Backend)**  
 Projet backend inspiré de la plateforme Airbnb.  
