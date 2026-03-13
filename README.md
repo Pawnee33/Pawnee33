@@ -18,8 +18,27 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pawnee33&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Featured Projects
+
+🔹 **Airbnb Clone (Backend)**  
+Projet backend inspiré de la plateforme Airbnb.  
+👉 https://github.com/Milaa-au/holbertonschool-hbnb
+
+🔹 **Simple Shell**  
+Shell Unix développé en C qui exécute des commandes comme bash.  
+👉 https://github.com/Pawnee33/holbertonschool-simple_shell
+
+🔹 **Custom printf**  
+Implémentation personnalisée de la fonction printf en C.  
+👉 https://github.com/FelixBesancon/holbertonschool-printf
+
+🔹 **Higher Level Programming**  
+Projets en Python autour de la programmation orientée objet et des bases de données.  
+👉 https://github.com/Pawnee33/holbertonschool-higher_level_programming
+
+🔹 **Low Level Programming**  
+Exercices avancés en programmation système en C.  
+👉 https://github.com/Pawnee33/holbertonschool-low_level_programming
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pawnee33&icon=0&color=0)](https://visitcount.itsvg.in)
