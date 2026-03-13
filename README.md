@@ -20,9 +20,10 @@
 
 ## 🏅 Certifications
 ### IBM SkillsBuild
-https://github.com/Pawnee33/Pawnee33/blob/main/images/agile-explorer.png
-https://github.com/Pawnee33/Pawnee33/blob/main/images/open-source-foundations.png
-Certifications obtenues via IBM SkillsBuild :
+![GitHub Logo]https://github.com/Pawnee33/Pawnee33/blob/main/images/agile-explorer.png
+![GitHub Logo]https://github.com/Pawnee33/Pawnee33/blob/main/images/open-source-foundations.png
+
+### Certifications obtenues via IBM SkillsBuild :
 
 ## 🚀 Projets principaux
 
