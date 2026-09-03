@@ -36,10 +36,10 @@
 <p>
 <img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/agile-explorer.png" width="180">
 <img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/open-source-foundations.png" width="180">
-<img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/certificate-sql.pdf" width="180">
-<img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/certificate-project-management-1.pdf" width="180">
-<img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/certificate-cloud.pdf" width="180">
-img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/certificate-cyber-1.pdf" width="180">
+<img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/certificate-sql_1.jpg" width="180">
+<img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/certificate-project-management-1.jpg" width="180">
+<img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/certificate-cloud.jpg" width="180">
+<img src="https://github.com/Pawnee33/Pawnee33/blob/main/images/certificate-cyber-1.jpg" width="180">
 </p>
 
 ## 🚀 Projets principaux
