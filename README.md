@@ -40,7 +40,8 @@
 
 ## 🚀 Projets principaux
 🔹️ **PlanifPro (Projet de fin de première année : Niveau BTS : RNCP Niveau 5)**
-Projet Fullstack, Application de génération de planning et de gestion pédagogique. 
+Projet Fullstack, Application de génération de planning et de gestion pédagogique.
+👉 https://github.com/Pawnee33/PlanifPro
 
 🔹️ **Site-vitrine (Projet pro)**
 Création d'un site vitrine pour Pauline DEFIZE MARTOS. 
