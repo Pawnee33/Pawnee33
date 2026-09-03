@@ -39,6 +39,12 @@
 </p>
 
 ## 🚀 Projets principaux
+🔹️ **PlanifPro (Projet de fin de première année : Niveau BTS : RNCP Niveau 5)**
+Projet Fullstack, Application de génération de planning et de gestion pédagogique. 
+
+🔹️ **Site-vitrine (Projet pro)**
+Création d'un site vitrine pour Pauline DEFIZE MARTOS. 
+👉 https://github.com/Pawnee33/Site-Vitrine
 
 🔹 **Airbnb Clone (Backend)**  
 Projet backend inspiré de la plateforme Airbnb.  
