@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Bonjour, je m'appelle Pawnee DEFIZE<br><br>👨‍💻 Infographiste Compositing en reconversion en tant que Développeur Full Stack - Agentic IA<br>🎓 Étudiant à **Holberton School Bordeaux **<br>💡 Passionné par le développement web, les systèmes et l'open source.<br><br> 
+## 👋 Bonjour, je m'appelle Pawnee DEFIZE<br><br>👨‍💻 Infographiste Compositing en reconversion en tant que Développeur Full Stack - Agentic IA<br>🎓 Étudiant à Holberton School Bordeaux<br>💡 Passionné par le développement web, les systèmes et l'open source.<br><br> 
 
 
 ## 🌐 Socials:
