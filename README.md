@@ -65,7 +65,7 @@ Création d'un site vitrine pour Pauline DEFIZE MARTOS.
 
 🔹 **Airbnb Clone (Backend)**  
 Projet backend inspiré de la plateforme Airbnb.  
-👉 https://github.com/Milaa-au/holbertonschool-hbnb
+👉 https://github.com/Pawnee33/holbertonschool-hbnb
 
 🔹 **Simple Shell**  
 Shell Unix développé en C qui exécute des commandes comme bash.  
